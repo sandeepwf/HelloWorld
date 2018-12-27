@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CA90-9631
+
+ Directory of C:\Users\SANDY1\Desktop\Java Project1
+
+12/26/2018  07:40 PM    <DIR>          .
+12/26/2018  07:40 PM    <DIR>          ..
+12/25/2018  05:38 PM               667 HelloWorld.class
+12/25/2018  05:38 PM               156 HelloWorld.java
+12/26/2018  07:40 PM                 0 samplefile.txt
+               3 File(s)            823 bytes
+               2 Dir(s)  98,724,810,752 bytes free
